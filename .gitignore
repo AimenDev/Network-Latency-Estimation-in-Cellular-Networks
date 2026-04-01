@@ -12,6 +12,7 @@ env/
 signal_metrics.csv
 data/train.csv
 data/val.csv
+data/model_comparison.csv
 data/test.csv
 data/scaler.pkl
 data/best_model.keras
