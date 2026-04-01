@@ -1,0 +1,13 @@
+[
+    "Signal Strength (dBm)",
+    "Data Throughput (Mbps)",
+    "BB60C Measurement (dBm)",
+    "srsRAN Measurement (dBm)",
+    "BladeRFxA9 Measurement (dBm)",
+    "hour",
+    "day_of_week",
+    "net_3G",
+    "net_4G",
+    "net_5G",
+    "net_LTE"
+]

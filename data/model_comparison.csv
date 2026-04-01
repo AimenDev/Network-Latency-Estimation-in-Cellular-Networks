@@ -1,0 +1,4 @@
+Model,MAE (ms),RMSE (ms),R² Score
+Neural Network,18.0,22.3,0.843
+Linear Regression,17.94,22.22,0.8441
+Random Forest,18.47,23.1,0.8315

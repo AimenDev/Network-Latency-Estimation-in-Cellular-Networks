@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+tf_env/
+venv/
+env/
+
+# Data files (too large for GitHub)
+signal_metrics.csv
+data/train.csv
+data/val.csv
+data/test.csv
+data/scaler.pkl
+data/best_model.keras
+data/training_history.csv
+
+# Keep these small files
+!data/feature_names.json
+!data/network_encoder.json
+
+# Logs and plots
+logs/
+plots/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
