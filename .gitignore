@@ -24,7 +24,7 @@ data/training_history.csv
 
 # Logs and plots
 logs/
-plots/
+
 
 # VS Code
 .vscode/
